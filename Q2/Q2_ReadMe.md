@@ -1,1 +1,1 @@
-
+Using glfw 3.3 | Using GLEW 2.1.0 | A chessboard has been drawn in Simple_Chess | A triangle with gradient has been drawn in Triangle_Gradient | All shaders and header file(Shader.h) are in the folder |
