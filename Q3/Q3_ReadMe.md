@@ -1,1 +1,1 @@
-
+Using glfw 3.3 | Using GLEW 2.1.0 | SOIL2 has been used as image loading library, present in requisite folder | Ring and Disc with texture are drawn in Texure_objects, both are in the same program(to obtain disc from the annulus, only four lines of code have to be commented out, i.e code for drawing inner disc)| Tex_Chessboard contains a simple chessboard with black and white squares as texture image source
